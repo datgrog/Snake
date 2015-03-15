@@ -1,4 +1,4 @@
 Snake
 =====
 
-Project C
+C Project
