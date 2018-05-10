@@ -1,3 +1,12 @@
+### Let's Play a game
+
+```
+git clone git@github.com:datgrog/Snake.git
+cd Snake
+make
+./snake
+```
+
                   INSTRUCTIONS
                   ――――――――――――
 
